@@ -1,0 +1,33 @@
+
+body {
+    background-color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    background-color: bisque;
+    text-align: center;
+    border-radius: 200px;
+}
+
+header{
+    overflow:hidden;
+    background-color:rgb(231, 159, 228);
+    padding:20px 10px;
+   
+}
+header a {
+    float: left;
+    color: darkred;
+    text-align: center;
+    padding: 12px;
+    font-size: 18px;
+    line-height: 25px;
+    border-radius: 4px;
+}
+header a:hover {
+    background-color: deeppink;
+    color: gainsboro;
+}
+.header-right{
+    float:right;
+}
