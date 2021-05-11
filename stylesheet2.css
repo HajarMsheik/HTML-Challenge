@@ -1,0 +1,110 @@
+body{
+  background-color: rgb(215, 219, 235);
+
+}
+
+img{
+  width:45%;
+  margin-left: 31%;
+  margin-right:50% ;
+  display:block;
+  border-radius: 8px;
+}
+.ft1{
+    position:absolute;
+    left:35%;
+    top:120px;
+    color:rgb(240, 231, 152);
+}
+.ft2{
+    position:absolute;
+    left:35%;
+    top:150px;
+    color:rgb(240, 231, 152);
+}
+.menubar {
+    margin-top: 15px;
+}
+
+.ulcss{
+    display:table;
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+    background-color: rgb(88, 84, 122);
+    border-radius: 4px;
+}
+
+.licss{
+    float: left;  
+}
+  
+.licss a {
+    display: block;
+    color:rgb(240, 231, 152);
+    text-align: center;
+    padding: 10px;
+    width: auto;
+    text-decoration: none;
+}
+  
+.licss a:hover {
+    background-color: rgb(37, 37, 25); 
+}
+
+.menubar2{
+    margin-top: 15px;
+    margin-left: 30%;
+}
+.ulcss2{
+        list-style-type:disc;
+        border-radius: 4px;
+    }
+
+.li2 a {
+        
+        color: rgb(10, 10, 10);
+        text-align: center;
+        padding: 10px;
+        width: auto;
+        text-decoration: none;
+}
+.block{
+    float:left;
+    width:14%;
+    margin-left:32%;
+}
+.gallery{
+   width:25%;
+   margin-left: 50%;
+   margin-bottom:40% ;
+   margin-top: -15%;
+
+}
+.subscription{
+    width:13%;
+    margin-left: 50%;
+    margin-bottom:40% ;
+    margin-top: -36%;
+}
+.services{
+    width:13%;
+    margin-left: 65%;
+    margin-bottom:40% ;
+    margin-top: -53%;
+
+
+}
+.vertical{
+    border-left: 10px solid rgb(175, 82, 82);
+    height: 273px;
+    position:absolute;
+    left: 63%;
+    margin-top: -52%;
+}
+.form2{
+    float:left;
+    width:14%;
+    margin-top:-40%; 
+    margin-left:32%;
+}
